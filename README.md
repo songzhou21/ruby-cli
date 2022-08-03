@@ -1,4 +1,7 @@
 ```sh
+# create a new gem
+bundler gem ruby-cli
+
 # build
 gem build ruby-cli.gemspec
 
